@@ -35,10 +35,13 @@ import Foundation
 //}
 
 // checking whether an optional contains a value
-var count: Int = 0
-var myOptional: Int? = 4
+//var count: Int = 0
+//var myOptional: Int? = 4
+//
+//if myOptional != nil {
+//    let value = myOptional!
+//    count = count + value
+//}
 
-if myOptional != nil {
-    let value = myOptional!
-    count = count + value
-}
+// using optional binding to un-wrap an optional value
+
