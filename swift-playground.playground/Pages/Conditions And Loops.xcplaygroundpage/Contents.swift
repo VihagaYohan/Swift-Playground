@@ -44,8 +44,15 @@ import Foundation
 //}
 
 // using optional binding to un-wrap an optional value
+//var count = 0
+//var myOptional: Int? = 4
+//if let value = myOptional {
+//    count = count + value
+//}
+
+// checking multiple conditions with optional binding
 var count = 0
-var myOptional: Int? = 4
-if let value = myOptional {
+var myOptional: Int? = 5
+if let value = myOptional, value == 5 {
     count = count + value
 }
