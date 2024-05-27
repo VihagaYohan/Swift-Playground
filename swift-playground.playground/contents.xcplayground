@@ -10,5 +10,6 @@
         <page name='Structures'/>
         <page name='Keypath'/>
         <page name='Methods'/>
+        <page name='Initialization'/>
     </pages>
 </playground>
