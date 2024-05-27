@@ -4,5 +4,7 @@
         <page name='Conditions And Loops'/>
         <page name='Untitled Page'/>
         <page name='Paradigm'/>
+        <page name='Generic functions'/>
+        <page name='Scope'/>
     </pages>
 </playground>
