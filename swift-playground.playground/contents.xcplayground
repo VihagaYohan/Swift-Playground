@@ -7,5 +7,6 @@
         <page name='Generic functions'/>
         <page name='Scope'/>
         <page name='Closure'/>
+        <page name='Structures'/>
     </pages>
 </playground>
