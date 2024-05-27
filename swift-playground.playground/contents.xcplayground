@@ -8,5 +8,6 @@
         <page name='Scope'/>
         <page name='Closure'/>
         <page name='Structures'/>
+        <page name='Keypath'/>
     </pages>
 </playground>
