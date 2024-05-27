@@ -11,5 +11,6 @@
         <page name='Keypath'/>
         <page name='Methods'/>
         <page name='Initialization'/>
+        <page name='Computed property'/>
     </pages>
 </playground>
