@@ -9,5 +9,6 @@
         <page name='Closure'/>
         <page name='Structures'/>
         <page name='Keypath'/>
+        <page name='Methods'/>
     </pages>
 </playground>
