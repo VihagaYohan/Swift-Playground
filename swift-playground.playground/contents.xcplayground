@@ -6,5 +6,6 @@
         <page name='Paradigm'/>
         <page name='Generic functions'/>
         <page name='Scope'/>
+        <page name='Closure'/>
     </pages>
 </playground>
