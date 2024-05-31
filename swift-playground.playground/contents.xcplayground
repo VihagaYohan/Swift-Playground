@@ -14,5 +14,6 @@
         <page name='Computed property'/>
         <page name='Property observers'/>
         <page name='Type properties and methods'/>
+        <page name='Generic structure'/>
     </pages>
 </playground>
