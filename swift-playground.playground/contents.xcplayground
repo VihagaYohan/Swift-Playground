@@ -16,5 +16,6 @@
         <page name='Type properties and methods'/>
         <page name='Generic structure'/>
         <page name='Type structure'/>
+        <page name='Protocol'/>
     </pages>
 </playground>
