@@ -12,5 +12,6 @@
         <page name='Methods'/>
         <page name='Initialization'/>
         <page name='Computed property'/>
+        <page name='Property observers'/>
     </pages>
 </playground>
